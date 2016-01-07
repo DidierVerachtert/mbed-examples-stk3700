@@ -1,0 +1,9 @@
+data/caplesense.h.i
+data/capsenseconfig_gg_stk.h.i
+data/capsenseconfig_lg_stk .h.i
+data/caplesense.c.i
+data/EFM32_CapSenseSlider.cpp.i
+data/capsenseconfig_tg_stk.h.i
+data/capsenseconfig_wg_stk.h.i
+data/EFM32_CapSenseSlider.h.i
+data/capsenseconfig_lg_stk.h.i

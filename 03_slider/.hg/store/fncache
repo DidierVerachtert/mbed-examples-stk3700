@@ -1,0 +1,5 @@
+data/mbed.bld.i
+data/EFM32_SegmentLCD.lib.i
+data/mbed.lib.i
+data/EFM32_CapSense.lib.i
+data/main.cpp.i
