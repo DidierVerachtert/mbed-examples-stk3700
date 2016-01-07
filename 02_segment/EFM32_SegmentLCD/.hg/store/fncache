@@ -1,0 +1,9 @@
+data/segmentlcdconfig_stk_g.h.i
+data/segmentlcdconfig_stk_lg.h.i
+data/EFM32_SegmentLCD.cpp.i
+data/segmentlcdconfig_stk_wg.h.i
+data/segmentlcdconfig_stk_tg.h.i
+data/segmentlcd.h.i
+data/segmentlcdconfig_stk_gg.h.i
+data/EFM32_SegmentLCD.h.i
+data/segmentlcd.c.i
